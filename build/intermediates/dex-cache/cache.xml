@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_bfd59c2d7b686c9acb39cfada3e64c3e09c2b0c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/regan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_e23e59a264e27a695b819198e953cf516b86d08e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_7c9b3b6525aaf69e06c5ceb924ba23b038fbdff0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="025cd84be4b8afcc7b21660801196d85e9ba3ae1">
+        <dex dex="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_11a90de2e988d6bdb94949bdf20225f01a82ed79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_868e484a5d7c6873c46faebb8e36d30ae8fe0ea8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_5bba967d51f9dce5ab90b30728198dd233326308/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_b65957dc0e7f0be50b107770b96bf0cd2500c114/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_f3c48c9f79178ef2a19a2e1b66866993d11037f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_141e552a29cbfefb519c8a6857d0ed50beb82195/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40536cc1e422bac5e95f0c501213b6756ae5ded3">
+        <dex dex="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e3babc535fff7e9051e54b72d52aea54a09c8b28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_3156b96adae7d9af7eed34389d2883a026b8b959/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/regan/AndroidStudioProjects/let-us-paint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_ccabdb7dbfa493a7693be8473db8dd46f8a61997/classes.dex" />
+    </item>
+
+</items>

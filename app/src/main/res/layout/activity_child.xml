@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_child"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/darker_gray"
+    tools:context="com.example.android.let_us_paint.ChildActivity">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/white"
+        android:padding="8dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/ibtn_red"
+                android:src="@drawable/red_e74c3c"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp" />
+
+            <ImageButton
+                android:id="@+id/ibtn_orange"
+                android:src="@drawable/orange_e67e22"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:paddingRight="8dp"/>
+
+            <ImageButton
+                android:id="@+id/ibtn_yellow"
+                android:src="@drawable/yellow_f1c40f"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:paddingRight="8dp"/>
+
+            <ImageButton
+                android:id="@+id/ibtn_green"
+                android:src="@drawable/green_1abc9c"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:paddingRight="8dp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="8dp">
+
+            <ImageButton
+                android:id="@+id/ibtn_blue"
+                android:src="@drawable/blue_3498db"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"/>
+
+            <ImageButton
+                android:id="@+id/ibtn_purple"
+                android:src="@drawable/purple_9b59b6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:paddingRight="8dp"/>
+
+            <ImageButton
+                android:id="@+id/ibtn_gray"
+                android:src="@drawable/gray_7f8c8d"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:paddingRight="8dp"/>
+
+            <ImageButton
+                android:id="@+id/ibtn_black"
+                android:src="@drawable/black_34495e"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:paddingRight="8dp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

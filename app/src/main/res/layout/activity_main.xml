@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.let_us_paint.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorButtonNormal">
+
+        <ImageButton
+            android:id="@+id/ibtn_undo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/undo_image" />
+
+    </RelativeLayout>
+
+    <com.example.android.let_us_paint.ArtboardView
+        android:id="@+id/artboard"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@android:color/white" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorButtonNormal">
+
+        <ImageButton
+            android:id="@+id/ibtn_pen"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/green_1abc9c"
+            android:tag=""/>
+
+        <ImageButton
+            android:id="@+id/ibtn_eraser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/ibtn_pen"
+            android:src="@drawable/eraser_image" />
+
+    </RelativeLayout>
+
+</LinearLayout>
